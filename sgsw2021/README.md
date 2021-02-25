@@ -2,4 +2,4 @@
 
 This is the workshop [Participant List](SGSW2021_Participants.md)
 
-[Workshop Schedule] (SGSW2021_Schedule.md) 
+ This is the [Workshop Schedule](SGSW2021_Schedule.md) 
