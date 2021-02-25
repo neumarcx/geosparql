@@ -37,4 +37,4 @@ Linda van den Brink worked (10+ years) as a geospatial standards expert at Geono
 
 # 19:30 CET Wokshop discussion & next steps
 
-# 20:00 CET Workshop End
+# 20:00 CET Workshop Ending
