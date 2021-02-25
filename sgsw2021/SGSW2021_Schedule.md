@@ -31,6 +31,9 @@ Ontop LinkedGeoData
 LinkedDataOps: Geospatial Linked Data Operations Based on Quality Process Cycle
 
 # 19:10 CET Standards for Spatial Data on the Web - Linda van den Brink
+W3C and the Open Geospatial Consortium (OGC) have been collaborating through a joint working group to develop and maintain vocabularies and best practices that encourage better sharing of spatial data on the Web; and identify areas where standards should be developed jointly by both W3C and OGC. The talk will give a short overview of how this collaboration works, what came out of it, and possible future developments.
+
+Linda van den Brink worked (10+ years) as a geospatial standards expert at Geonovum, a national geospatial standards body for the Netherlands. She is co-chair of OGC/W3C Spatial Data on the Web Interest Group, co-editor of the Spatial Data on the Web Best Practices, chair of the OGC GeoSemantics domain working group, author of recent PhD titled Geospatal data on the Web, and a OGC Gardel award winner.”
 
 # 19:30 CET Wokshop discussion & next steps
 
