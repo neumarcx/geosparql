@@ -17,7 +17,6 @@ GeoSPARQLBenchmark github Paper
 Norwegian Place-Names
 
 Peder Gammeltoft and Øyvind Gjesdal - University of Bergen, Norway
-https://toponymi.spraksamlingane.no/
 
 Biodiversity RDF data and GeoJSON-LD
 Jean-Marc Vanel, France
@@ -31,8 +30,8 @@ LinkedDataOps
 Ontop LinkedGeoData
 LinkedDataOps: Geospatial Linked Data Operations Based on Quality Process Cycle
 
-# 19:00 CET Standards for Spatial Data on the Web - Linda van den Brink
+# 19:10 CET Standards for Spatial Data on the Web - Linda van den Brink
 
-# 19:20 CET Wokshop discussion & next steps
+# 19:30 CET Wokshop discussion & next steps
 
 # 20:00 CET Workshop End
