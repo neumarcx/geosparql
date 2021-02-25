@@ -1,4 +1,6 @@
-# Semantic GeoSpatial Web - Use Cases Workshop 2021 Participants List
+# Semantic GeoSpatial Web - Use Cases Workshop 2021 
+
+# Participant List
 
 
 | Name | Affiliation |
