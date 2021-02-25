@@ -5,44 +5,44 @@
 
 | Name | Affiliation |
 | --------------- | --------------- |
-|Andy Seaborne| |
-|Bart van Leeuwen| |
-|Beyza Yaman| |
-|Claus Weiland| |
-|David Grosfeld | |
-|Dina Sharafeldeen| |
-|Espen Tønnessen| |
-|Fidan Limani| |
-|Gaurav Jaglan| |
-|George Percivall| |
-|Gregg Kellogg| |
-|Guohui Xiao| |
-|Haonan Qiu| |
-|Henrik Askjer| |
-|James Anderson| |
-|Jay Gray| |
-|Jean-Marc Vanel| |
-|Johannes Molland| |
-|Jouni Tuominen| |
-|Linda van den Brink| |
-|Marco Neumann| |
-|Maria Afara| |
-|Mark P. Schildhauer| |
-|Michael Anderson| |
-|Milos Jovanovik| |
-|Monika Solanki| |
+|Andy Seaborne| Apache Jena |
+|Bart van Leeuwen| Netage BV|
+|Beyza Yaman| ADAPT Centre DCU |
+|Claus Weiland| Senckenberg Biodiversität und Klima - Forschungszentrum |
+|David Grosfeld |Independent Management Consultant |
+|Dina Sharafeldeen| Friedrich Schiller University Jena |
+|Espen Tønnessen| Arkivverket |
+|Fidan Limani| ZBW |
+|Gaurav Jaglan| Excelra |
+|George Percivall| Geospatial Consultant |
+|Gregg Kellogg| Semi-retired Linked Data Consultant |
+|Guohui Xiao| Free University of Bozen-Bolzano, Italy & Ontopic s.r.l.|
+|Haonan Qiu| Ulm University |
+|Henrik Askjer| University of Oslo |
+|James Anderson| DYDRA |
+|Jay Gray| Consulting |
+|Jean-Marc Vanel| Déductions SARL |
+|Johannes Molland| Digitaliseringsdirektoratet |
+|Jouni Tuominen| Aalto University |
+|Linda van den Brink| Geonovum & OGC |
+|Marco Neumann| KONA |
+|Maria Afara| Independent |
+|Mark P. Schildhauer| independent / UC SB|
+|Michael Anderson| LMI |
+|Milos Jovanovik| Ss. Cyril and Methodius University & OpenLink Software|
+|Monika Solanki| Agrimetrics |
 |Nishad Thalhath| |
-|Ole Kristian Grønneng| |
-|Omar Khan| |
-|Paul van Genuchten| |
-|Peder Gammeltoft| |
-|Peter Hopfgartner| |
+|Ole Kristian Grønneng| Oslo kommune |
+|Omar Khan| Wells Fargo |
+|Paul van Genuchten| GeoCat bv |
+|Peder Gammeltoft| University of Bergen |
+|Peter Hopfgartner| Ontopic |
 |Sadak Mohamed| |
 |Sarra OUELHADJ| |
-|Shirly Stephen| |
-|Steinar Skagemo| |
-|Timo Homburg| |
-|Thomas Bassetto| |
+|Shirly Stephen| ASU |
+|Steinar Skagemo| Brønnøysundregistrene |
+|Timo Homburg| Mainz University of Applied Sciences |
+|Thomas Bassetto| DNV GL |
 |Vladimir Kulkov| |
-|Wolfram Willuhn| |
-|Øyvind Liland Gjesdal| |
+|Wolfram Willuhn| Plutinsus |
+|Øyvind Liland Gjesdal| University of Bergen |
