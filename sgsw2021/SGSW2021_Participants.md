@@ -43,6 +43,7 @@
 |Steinar Skagemo| Brønnøysundregistrene |
 |Timo Homburg| Mainz University of Applied Sciences |
 |Thomas Bassetto| DNV GL |
+|Veronika Heimsbakk|Capgemini|
 |Vladimir Kulkov| |
 |Wolfram Willuhn| Plutinsus |
 |Øyvind Liland Gjesdal| University of Bergen |
