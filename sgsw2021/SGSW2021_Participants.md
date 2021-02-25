@@ -1,6 +1,7 @@
-#Semantic GeoSpatial Web - Use Cases Workshop 2021 Participants List
+# Semantic GeoSpatial Web - Use Cases Workshop 2021 Participants List
 
-| Name | Affiliation | |
+
+| Name | Affiliation |
 | --------------- | --------------- |
 |Andy Seaborne| |
 |Bart van Leeuwen| |
